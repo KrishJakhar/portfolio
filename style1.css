@@ -1,0 +1,151 @@
+html, body {
+  margin: 0;
+}
+
+h1, h2, a {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif; 
+}
+
+.second {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+/* first */
+.first {
+  text-align: center;
+  background: url("http://www.planwallpaper.com/static/images/53823.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+.first .second {
+  position: relative;
+  top: 100px;
+}
+
+.first h1 {
+  color: white;
+  margin: 0;
+  font-size: 150px;
+}
+
+.first p {
+  color: green;
+  margin: 0 0 20px 0;
+  font-size: 18px;
+}
+
+.first .third {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* fourth */
+.fourth {
+  background-color: #1c1c1c;
+  padding: 50px 0 80px;
+  text-align: center;
+}
+
+.fourth .five {
+ 
+  float: left;
+  padding: 10px;
+  width: 28%;
+}
+
+.fourth h2 {
+  color: #ffa800;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.six {
+  clear: both;
+}
+
+.fourth p {
+  color: #efefef;
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 20px;
+}
+
+.fourth .btn {
+  background-color: #eee;
+  color: #1c1c1c;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* seven */
+.seven {
+  background: url("http://www.planwallpaper.com/static/images/04c05a04079a978b0ffa50a1ae42f5a6.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+}
+
+.seven .second {
+  position: relative;
+  top: 200px;
+}
+
+.seven h2 {
+  color: #fff;
+  font-size: 40px;
+  margin:0;
+  padding:50px 0 0;
+}
+
+/* eight */
+.eight {
+  background: url("http://www.planwallpaper.com/static/images/10-Cool-Google-Brand-Covers_sMxmvqR.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+}
+
+.eight .second {
+  position: relative;
+  top: 200px;
+}
+
+.eight h2 {
+  color: #fff;
+  font-size: 40px;
+  margin: 0 0 20px 0;
+  padding:50px 0 0;
+}
+
+.eight p {
+  color: #fff;
+  font-size: 18px;
+  margin: 0 0 20px 0;
+}
+
+.eight .third {
+  background-color: #1c1c1c;
+  color: #fff;
+  font-size: 18px;
+  padding: 8px 30px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.third:hover {
+  background:#ffa800;
+  color:#000;
+}
